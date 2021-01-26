@@ -1,7 +1,6 @@
 package com.stacksimplify.restservices.exceptions;
 
-
-
+import org.springframework.http.HttpStatus;
 
 public class UserNotFoundException extends Exception{
 
@@ -12,6 +11,6 @@ public class UserNotFoundException extends Exception{
 	}
 
 	
-	
+
 	
 }
