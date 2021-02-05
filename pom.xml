@@ -75,9 +75,12 @@
         <groupId>org.mapstruct</groupId>
         <artifactId>mapstruct</artifactId>
         <version>${org.mapstruct.version}</version>
-    </dependency>
+   		</dependency>
 		
-		
+		<dependency>
+        <groupId>com.fasterxml.jackson.dataformat</groupId>
+        <artifactId>jackson-dataformat-xml</artifactId>
+   		</dependency>
 		
 		
 		
